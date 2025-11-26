@@ -74,7 +74,7 @@ mvn clean package
 java -jar target/college-admissions-1.0-SNAPSHOT.jar
 ```
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 college-admissions/
@@ -94,6 +94,8 @@ college-admissions/
     ├── college-admissions-1.0-SNAPSHOT.jar
 ```
 
-## Author
+## ✨ Author
 
 Aashik Reddy
+📧 [Contact Me](aashikreddythatiparthi03@gmail.com)   
+🐙 [GitHub](https://github.com/aashikreddy)
