@@ -97,5 +97,6 @@ college-admissions/
 ## ✨ Author
 
 Aashik Reddy
+
 📧 [Contact Me](aashikreddythatiparthi03@gmail.com)   
 🐙 [GitHub](https://github.com/aashikreddy)
