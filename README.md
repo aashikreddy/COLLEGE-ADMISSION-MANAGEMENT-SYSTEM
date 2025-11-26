@@ -1,4 +1,4 @@
-# College Admission Management System (Java + MySQL + Maven)
+# 📚 College Admission Management System (Java + MySQL + Maven)
 
 A console-based application to manage courses, students, applications, merit lists, and exporting results to CSV and PDF.
 This project demonstrates Java, JDBC, OOP, database design, and Maven build automation.
@@ -22,7 +22,7 @@ This project demonstrates Java, JDBC, OOP, database design, and Maven build auto
 - PDFBox (PDF export)
 - Apache Commons CSV (CSV export)
 
-## Database Setup
+## 🗄️ Database Setup
 
 Run the following SQL:
 
@@ -54,7 +54,7 @@ CREATE TABLE applications (
 );
 ```
 
-## Build Instructions
+## ⚙️ Build Instructions
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ CREATE TABLE applications (
 mvn clean package
 ```
 
-### Run Application
+### ▶️ Run Application
 
 ```
 java -jar target/college-admissions-1.0-SNAPSHOT.jar
@@ -94,7 +94,7 @@ college-admissions/
     ├── college-admissions-1.0-SNAPSHOT.jar
 ```
 
-## ✨ Author
+## 👨‍💻 Author
 
 **Aashik Reddy**
 
