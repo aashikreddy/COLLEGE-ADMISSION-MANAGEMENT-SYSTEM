@@ -3,7 +3,7 @@
 A console-based application to manage courses, students, applications, merit lists, and exporting results to CSV and PDF.
 This project demonstrates Java, JDBC, OOP, database design, and Maven build automation.
 
-## Features
+## 🚀 Features
 
 - Create and list courses
 - Register students
@@ -14,7 +14,7 @@ This project demonstrates Java, JDBC, OOP, database design, and Maven build auto
 - Export admission list in PDF format
 - Fully interactive console UI
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Java 17
 - MySQL
