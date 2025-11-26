@@ -1,0 +1,4 @@
+ApplicationId,StudentId,StudentName,Email,Merit,Status,Course
+1,1,Aashik Reddy,aashikreddythatiparthi03@gmail.com,90.42,ACCEPTED,Computer Science
+2,2,Vaishnavi Reddy,vaishnavireddy0809@gmail.com,88.3,ACCEPTED,Computer Science
+3,3,Jaswant Patel,jaswant@gmail.com,70.0,REJECTED,Computer Science
